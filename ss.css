@@ -1,0 +1,73 @@
+body {
+    background-image: url("wp.png");
+
+}
+
+
+
+#center {
+    //border: 1px solid white;
+    position: absolute;
+    border-radius: 50%;
+    //background-color: red;
+    width: 30%;
+    height: 30%;
+    left: 35%;
+    top: 35%;
+    //right: 45%;
+    
+    //bottom: 45%;
+
+    text-align: center;
+}
+#center a {
+    text-decoration:none;
+    color: white;
+    //color: green;
+}
+
+.box {
+    color: white;
+    position: absolute;
+    width: 20%;
+    height:20%;
+    //background-color: green;
+    text-align: center;
+    vertical-align: middle;
+    
+    
+}
+
+
+.b1 {
+    left: 10%;
+    top: 40%;
+}
+
+.b2 {
+    right: 10%;
+    top: 40%;
+}
+
+.b3 {
+    top: 5%;
+    left: 40%;
+}
+
+
+.cnt {
+    margin-top: 30px;
+    visibility: hidden;
+}
+
+.cnt a {
+    margin-top: 30px;
+    
+}
+
+ br {
+     line-height: 150%;
+ }
+
+
+
